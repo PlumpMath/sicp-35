@@ -3,7 +3,7 @@
 (load "apply.rkt")
 (load "data_structure.rkt")
 (load "representation.rkt")
-;(load "exercise4.3.rkt") ;;这样就可以利用数据导向的分派方式
+(load "exercise4.3.rkt") ;;这样就可以利用数据导向的分派方式
 (load "exercise4.4.rkt")
 
 
@@ -79,16 +79,3 @@
 
 (define the-global-environment (setup-environment))
 (driver-loop)
-      
-
-  
-
-
-  
-
-
-
-  
-  
-  
-        
